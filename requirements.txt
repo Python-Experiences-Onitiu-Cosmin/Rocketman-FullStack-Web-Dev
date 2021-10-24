@@ -1,0 +1,6 @@
+Django>=3.2,<3.3
+wagtail>=2.14,<2.15
+django-extensios==2.2.1
+django-widget-tweaks = 1.4.5
+sentry-sdk==0.13.5
+django-debug-toolbar==2.2
